@@ -1,7 +1,7 @@
-﻿{
-    "version":  "1.0.5",
-    "downloadUrl":  "https://raw.githubusercontent.com/Similur/aetherframe_test_patches/main/Aetherframe_CodePatch_v1.0.5.zip",
-    "notes":  "test upload",
-    "sizeMB":  0.14,
-    "sha256":  "756f2c000fb1b45d95a8e418da942d658a507d2bcf76ae8644e84c3e97dc8c14"
+{
+    "version":  "1.0.9",
+    "downloadUrl":  "https://github.com/Similur/aetherframe_test_patches/releases/download/v1.0.9/Aetherframe_CodePatch_v1.0.9.zip",
+    "notes":  "Huge updates",
+    "sizeMB":  22.02,
+    "sha256":  "4e34033f7106c65c41de4362c73cfd15a8447237687d900ed02f9ce72ab89d9e"
 }
